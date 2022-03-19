@@ -46,8 +46,9 @@ The analysis of the election shows that:
 
 - The following images outlines the output in "command line" as well as "election_analysis.txt"   
 
-![Command line Election Results Snapshot](https://github.com/ashwinihegde28/Election-analysis/tree/main/Resources/)
-![Election Results In Text file](https://github.com/ashwinihegde28/Election-analysis/tree/main/Resources/)
+![Command line Election Results Snapshot](https://github.com/ashwinihegde28/Election-Result-Analysis-python/blob/main/Resources/consoleOutput.PNG) <br> Terminal output
+
+![Election Results In Text file](https://github.com/ashwinihegde28/Election-Result-Analysis-python/blob/main/Resources/electionAnalysisTxtFile.PNG) <br> Output in "election_analysis.txt"
 
 ### Election Audit brief analysis
 Apart from the candidate centered election analysis, commission asked to automate and include voter turnout by county using "election_results.csv" (Since the code for candidate analysis already exists only the county analysis is included here). To achieve this few steps were followed.
